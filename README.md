@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ritik Kumar
 
-🎓 Master's student in Data Science, AI & Project Management – Berlin, Germany  
-💡 Learning Python, Machine Learning, Deep Learning, NLP, and Cloud tools  
-🚀 Preparing for real-world AI/ML projects and model deployment  
-🌍 Open to Data Science and AI roles in English-speaking teams across Germany  
+🎓 Master’s student in Data Science, Artificial Intelligence & Digital Business – GISMA University, Potsdam  
+💡 Learning Python, Machine Learning, Deep Learning, NLP, and AI product development  
+🚀 Preparing for real-world projects in NLP, computer vision, and model deployment  
+🌍 Open to English-speaking AI/Data Science roles in Germany and across Europe
 
-📌 Stay tuned — exciting AI projects coming soon!
+📌 Stay tuned — new projects will be uploaded soon!
